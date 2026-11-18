@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+pandas
+ase
+py3Dmol
+mpich
+lammps
